@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background: #141414 url(https://cdn.nur.kz/images/1200x675/1975a9fd186f7406.jpeg?version=1);
+  background-size: cover;
+  background-position: 50%;
+  height: 100vh;
+}
+svg{
+  position: absolute;
+  top: 50%;
+  margin-top: -60px;
+  left: 50%;
+  margin-left:-225px;
+}
